@@ -11,6 +11,6 @@ A project being designed to explore the world of web development by recreating t
 
 ### Getting Started
 1. Clone the repository:
-   "git clone https://github.com/your-username/magma-clone-js.git".
+   "git clone https://github.com/justmirr/magma-clone-js.git".
 2. Open the Project: "cd/magma-clone-js".
 3. Launch in your browser: Open the index.html file in your preferred web browser.
